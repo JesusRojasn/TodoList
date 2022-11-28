@@ -94,5 +94,3 @@ btn.addEventListener('click', function(){
 
 });
 
-o
-
